@@ -1,7 +1,7 @@
 PDCircleProgress-iOS7Style
 ==========================
 
- A simple demo circle progress for ios 7 style.
+iOS7 style of the progress bar
 
 <img src="https://raw.github.com/ForkPanda/PDCircleProgress-iOS7Style/master/loading.gif">
 
