@@ -3,7 +3,7 @@ PDCircleProgress-iOS7Style
 
  A simple demo circle progress for ios 7 style.
 
-![image](https://github.com/ForkPanda/PDCircleProgress-iOS7Styleraw/raw/master/loading.gif)
+<img src="https://raw.github.com/ForkPanda/PDCircleProgress-iOS7Style/master/loading.gif">
 
 ## State
 
