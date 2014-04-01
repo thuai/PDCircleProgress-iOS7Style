@@ -1,10 +1,10 @@
 PDCircleProgress-iOS7Style
 ==========================
 
-A simple demo circle progress for ios 7 style.</b>
+> A simple demo circle progress for ios 7 style.
 
-1. State </b>
+> 1. State
 
-try To Connect : progress <= 0 </b>
-finish loading : progress >= 0 </b>
-loading        : else </b>
+> try To Connect : progress <= 0
+> finish loading : progress >= 0
+> loading        : else
